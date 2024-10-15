@@ -10,7 +10,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Static Malware analysis          | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>|
-| Dynamic Malware Analysis | <a href="https://google.com">Detection Lab</a>|
+| Dynamic Malware Analysis         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
