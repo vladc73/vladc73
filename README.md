@@ -9,7 +9,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Static Malware analysis          | <a href="[https://github.com/vladc73/Malware-Analysis-Lab]">Malware Analysis Lab</a>|
+| Static Malware analysis          | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Dynamic Malware Analysis | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -17,8 +17,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -41,14 +39,13 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
-- <a href="[https://github.com/vladc73/Malware-Analysis-Lab]">Malware Analysis Lab</a>
+- <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>
 - Identify and Remediate Vunerablities Lab
 - IDS/Zeek Network Monitoring Lab
 - Set up Honeypot
