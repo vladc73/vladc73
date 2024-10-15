@@ -1,0 +1,55 @@
+# Hello, I'm Vladimir
+<a href="[https://www.linkedin.com/in/vladimir-clifton-96810529/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+## Objective
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Static Malware analysis          | <a href="https://google.com">Detection Lab</a>|
+| Dynamic Malware Analysis | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process_Hacker-EF3B2D?&style=for-the-badge&logo=Process_Hacker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GeoIP2_Database-777BB4?&style=for-the-badge&logo=GeoIP2_Database&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Regshot-777BB4?&style=for-the-badge&logo=Regshot&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Procmon-777BB4?&style=for-the-badge&logo=Procmon&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Hxd-00A4EF?&style=for-the-badge&logo=Hxdt&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cmder-4B275F?&style=for-the-badge&logo=Cmder&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcal-4B275F?&style=for-the-badge&logo=Hashcal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashmyfiles-4B275F?&style=for-the-badge&logo=Hashmyfiles&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BinText-4B275F?&style=for-the-badge&logo=BinText&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Xorsearch-4B275F?&style=for-the-badge&logo=Xorsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Floss-4B275F?&style=for-the-badge&logo=Floss&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Exeinfo-4B275F?&style=for-the-badge&logo=Exeinfo&logoColor=white" />
+</div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
+## Projects
+- Malware Analysis Lab
+- Identify and Remediate Vunerablities Lab
+- IDS/Zeek Network Monitoring Lab
+- Set up Honeypot
+- Wazuh to SOAR Implementation
