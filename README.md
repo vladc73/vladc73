@@ -46,7 +46,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>
-- Identify and Remediate Vunerablities Lab
+- <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>
 - IDS/Zeek Network Monitoring Lab
 - Set up Honeypot
 - Wazuh to SOAR Implementation
